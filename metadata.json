@@ -1,0 +1,5 @@
+{
+  "name": "Socratic Tutor AI",
+  "description": "An interactive learning workspace that turns PDFs into guided lessons, quizzes, and Socratic dialogues.",
+  "requestFramePermissions": []
+}
